@@ -1,5 +1,7 @@
 The goal of this coding exam is to quickly get you off the ground with **Dynamic Styling Using Styled Components**.
 
+### Refer to the page link: https://jstexteditor.ccbp.tech
+
 ### Refer to the image below:
 
 <br/>
